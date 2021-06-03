@@ -1,3 +1,5 @@
+
+application/x-httpd-php database.php ( PHP script, ASCII text, with CRLF line terminators )
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
@@ -75,10 +77,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'rmii_local',
+	'hostname' => '103.253.215.136',
+	'username' => 'opee2849_opee2849',
+	'password' => '*A&!W7mx2]3S',
+	'database' => 'opee2849_rmii',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
