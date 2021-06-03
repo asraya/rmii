@@ -1,8 +1,0 @@
----
- 
-deployment:
- 
- tasks:
- 
- - export DEPLOYPATH=//home/opee2849/public_html/rmii
- - /usr/bin/rsync -Paz * $DEPLOYPATH --delete
