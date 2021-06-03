@@ -4,6 +4,6 @@ deployment:
  
  tasks:
  
- - export DEPLOYPATH=/home/repositories/rmii.openind.com
+ - export DEPLOYPATH=/home/public_html/rmii/
 
  - /usr/bin/rsync -Paz * $DEPLOYPATH --delete

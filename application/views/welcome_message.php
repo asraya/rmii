@@ -53,7 +53,7 @@
 	 							<span class="icon-bar"></span>
 	 							
 	 					</button>
-	 						<a class="navbar-brand" href="#bgHome">RMIIAaa</a>
+	 						<a class="navbar-brand" href="#bgHome">RMIIAaaaaarr</a>
 	 				</div>
 	 				<div class="collapse navbar-collapse navbar-right" id="myNavbar">
 	 					<ul class="nav navbar-nav">
