@@ -30,7 +30,7 @@ class Welcome extends CI_Controller {
 		$data['galeri'] = $this->db->get('t_galeri')->result();
 
 
-		$this->load->view('welcome_message', $data);
+		$this->load->view('index', $data);
 
 	}
 
